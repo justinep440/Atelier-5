@@ -1,6 +1,6 @@
 ---
 title: "Atelier 5"
-author: "Nom et Prenom"
+author: Pailleron Justine
 date: "16/11/2019"
 output: pdf_document
 ---
